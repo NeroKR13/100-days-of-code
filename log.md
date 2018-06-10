@@ -1,3 +1,21 @@
+Day 1: June 9, 2018
+Today's Progress: Started doing some python coding challenges to refresh what I had learned in the previous months.
+
+Thoughts: 
+
+Link(s) to work
+
+none yet
+none yet
+
+
+
+
+
+
+
+
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
