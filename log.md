@@ -1,3 +1,5 @@
+# 100 Days Of Code - Log
+
 Day 1: June 9, 2018
 Today's Progress: Started doing some python coding challenges to refresh what I had learned in the previous months.
 
@@ -8,15 +10,30 @@ Link(s) to work
 none yet
 none yet
 
+Day 2: June 10, 2018
+Today's Progress: Started working on a text based RPG using Python that I had stopped working on a few months back.
+
+Link(s) to work:
+
+None yet
+
+
+
+
+Day 3 June 11,2018
+Today's Progress:Tweaked a few things on the text based RPG to balance the game out, also fixed a few bugs.
+Added MP cost and a way to reduce MP depending on spell and a way to avoid using magic if there's not enough MP. 
+
+Thoughts:
+
+Link(s) to work:
+
+None yet
 
 
 
 
 
-
-
-
-# 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
